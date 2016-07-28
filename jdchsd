@@ -1,0 +1,48 @@
+*   [33mcommit 226520e73f40afe0a546e77df54e26d0a3ce803f[m
+[31m|[m[32m\[m  Merge: 7a67b40 fd54029
+[31m|[m [32m|[m Author: Igor Octaviano <igoroctaviano@gmail.com>
+[31m|[m [32m|[m Date:   Wed Jul 27 13:21:06 2016 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'master' of https://github.com/acinternship/io-sample_app-hartlbook
+[31m|[m [32m|[m   
+[31m|[m * [33mcommit fd5402915448a8a5e99f26abcf1974c7b670c63d[m
+[31m|[m [32m|[m Author: Igor Octaviano <igoroctaviano@gmail.com>
+[31m|[m [32m|[m Date:   Tue Jul 26 20:49:55 2016 -0300
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Finish static pages
+[31m|[m [32m|[m   
+* [32m|[m [33mcommit 7a67b40e1818f99676565356b513e3aabb325d3b[m
+[32m|[m[32m/[m  Author: Igor Octaviano <igoroctaviano@gmail.com>
+[32m|[m   Date:   Wed Jul 27 13:06:21 2016 -0300
+[32m|[m   
+[32m|[m       Add a full_title helper
+[32m|[m  
+* [33mcommit 9f647ee9a90f66b3da5948bff0fb3f98fa4b4341[m
+[32m|[m Author: Igor Octaviano <igoroctaviano@gmail.com>
+[32m|[m Date:   Tue Jul 26 15:57:44 2016 -0300
+[32m|[m 
+[32m|[m     Some refacts til 3.4.4 (Setting de root)
+[32m|[m  
+* [33mcommit 3839636696dc303e1bdab4b5a9fd623d8ef727c8[m
+[32m|[m Author: Igor Octaviano <igoroctaviano@gmail.com>
+[32m|[m Date:   Tue Jul 26 13:25:55 2016 -0300
+[32m|[m 
+[32m|[m     Add a Static Pages controller
+[32m|[m  
+* [33mcommit 93edc786845feac096dd9301e63bdff59a4c21f9[m
+[32m|[m Author: Igor Octaviano <igoroctaviano@gmail.com>
+[32m|[m Date:   Tue Jul 26 11:25:16 2016 -0300
+[32m|[m 
+[32m|[m     Add hello route
+[32m|[m  
+* [33mcommit e642a1fa83c35c9dfa81b2221bd2894ceee18ec6[m
+[32m|[m Author: Igor Octaviano <igoroctaviano@gmail.com>
+[32m|[m Date:   Tue Jul 26 11:22:55 2016 -0300
+[32m|[m 
+[32m|[m     Add hello
+[32m|[m  
+* [33mcommit 6b1d091dec4ab94ec2e191d8e006e3b905a1c3ab[m
+  Author: Igor Octaviano <igoroctaviano@gmail.com>
+  Date:   Tue Jul 26 10:43:40 2016 -0300
+  
+      Improve the README
